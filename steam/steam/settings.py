@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'steam_site.apps.SteamSiteConfig',
     'rest_framework',
+    'frontend',
 ]
 
 MIDDLEWARE = [
